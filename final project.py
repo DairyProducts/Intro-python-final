@@ -38,6 +38,7 @@ for b in range(0,1001):
         Atot=Atot-A
     else:
         Atot=Atot+A
+print('THIS FILE IS OUTDATED. SEARCH THE REPOSITORY FOR THE UPDATED VERSION THAT PROVIDES AND ACCURATE CALCULATION.
 print('Answer: ',Atot)
 input('Press ENTER to open graph.')
 plt.plot(x,y)

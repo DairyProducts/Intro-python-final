@@ -1,3 +1,4 @@
+#IMPORTANT!! THIS IS AN OUTDATED VERSION OF THE CODE. THE AREA UNDER THE CURVE IS A POSITIVE SCALAR-LIKE VALUE. SEARCH THE REPOSITORY FOR AN UPDATED VERSION.
 #This code probably won't run on your local machine.
 #Change the path on lines 11 and 12 to the file location for dataX and dataY respectively.
 import math

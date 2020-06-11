@@ -42,4 +42,4 @@ print('THIS FILE IS OUTDATED. SEARCH THE REPOSITORY FOR THE UPDATED VERSION THAT
 print('Answer: ',Atot)
 input('Press ENTER to open graph.')
 plt.plot(x,y)
-plt.show()
+plt.show() 
